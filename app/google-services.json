@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926019787481",
+    "project_id": "ar2687340alexandrasilva",
+    "storage_bucket": "ar2687340alexandrasilva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926019787481:android:18ec03507dd57eefcf3cc8",
+        "android_client_info": {
+          "package_name": "com.example.ar2687340alexandrasilva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPTpyR8mwqt-oTKWNCPEembpuvNOWV7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
